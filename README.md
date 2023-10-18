@@ -25,7 +25,6 @@ A student who is actively learning programming languages and enthusiastic about 
 </a>
 </p>
 
-
 ### Reach me on
 - <a href="https://www.linkedin.com/in/muhammad-iqbal-firmansyah-469650257/">LinkedIn</a>
 - <a href="https://instagram.com/iqbalfiirmnsyh_?igshid=MzMyNGUyNmU2YQ==">Instagram</a>
