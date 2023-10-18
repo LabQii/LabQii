@@ -1,12 +1,12 @@
-# Halo All! 
+### Hi! 👋 I'm Iqbal.
 
-Perkenalkan nama saya **Muhammad Iqbal Firmansyah**.<br>
+A student who is actively learning programming languages and enthusiastic about understanding everything! - Right now, I am actively involved as a part of <a href="https://www.instagram.com/wargalabtif_/?hl=id">Wargalab in the Department of Informatics Engineering.</a>
 
-Saya seorang **Mahasiswa Sistem Informasi** di [Universitas Trunojoyo Madura](https://www.trunojoyo.ac.id/).<br>
-
-Saya merupakan bagian dari [Wargalab Jurusan Teknik Informatika](https://www.instagram.com/wargalabtif_/?hl=id).<br>
-
-Jika kamu ingin ngopi bareng, silakan kunjungi akun [Linkedin](https://www.linkedin.com/in/muhammad-iqbal-firmansyah-469650257/) saya yaa, byee.
+- 🔭 Currently, I am studying at <a href="https://www.trunojoyo.ac.id/">Trunojoyo Madura University</a>
+- 🌱 I am currently learning the Java programming language
+- 💬 Don't hesitate to have a discussion with me, hehe
+- 📫 How to contact me: <a href="mailto:sisteminformasi2006@gmail.com">Contact Me</a>
+- ⚡ Fun fact: A cat lover
 
 ### Tech Stack
 <a href="https://nodejs.org/"><img align="left" alt="Python" title="NodeJS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" /></a>
@@ -19,9 +19,9 @@ Jika kamu ingin ngopi bareng, silakan kunjungi akun [Linkedin](https://www.linke
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/LabQii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
