@@ -1,5 +1,7 @@
 ### Hi! 👋 I'm Iqbal.
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 A student who is actively learning programming languages and enthusiastic about understanding everything! - Right now, I am actively involved as a part of <a href="https://www.instagram.com/wargalabtif_/?hl=id">Wargalab in the Department of Informatics Engineering.</a>
 
 - 🔭 Currently, I am studying at <a href="https://www.trunojoyo.ac.id/">Trunojoyo Madura University</a>
