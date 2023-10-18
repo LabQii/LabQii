@@ -6,4 +6,4 @@ Saya seorang **Mahasiswa Sistem Informasi** di [Universitas Trunojoyo Madura](ht
 
 Saya merupakan bagian dari [Wargalab Jurusan Teknik Informatika](https://www.instagram.com/wargalabtif_/?hl=id).<br>
 
-Jika kamu ingin ngopi bareng, silakan kunjungi akun [Linkedin](https://www.linkedin.com/in/muhammad-iqbal-firmansyah-469650257/).
+Jika kamu ingin ngopi bareng, silakan kunjungi akun [Linkedin](https://www.linkedin.com/in/muhammad-iqbal-firmansyah-469650257/) saya yaa, byee.
