@@ -1,14 +1,16 @@
-### Hi! 👋 I'm Iqbal.
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/LabQii/LabQii/master/bg-github.png" alt="stacks"/>
+</h3>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+### Hallo! 👋 I'm Iqbal
 
 A student who is actively learning programming languages and enthusiastic about understanding everything! - Right now, I am actively involved as a part of <a href="https://www.instagram.com/wargalabtif_/?hl=id">Wargalab in the Department of Informatics Engineering.</a>
 
-- 🔭 Currently, I am studying at <a href="https://www.trunojoyo.ac.id/">Trunojoyo Madura University</a>
-- 🌱 I am currently learning the Java programming language
-- 💬 Don't hesitate to have a discussion with me, hehe
-- 📫 How to contact me: <a href="mailto:sisteminformasi2006@gmail.com">Contact Me</a>
-- ⚡ Fun fact: A cat lover
+- Currently, I am studying at <a href="https://www.trunojoyo.ac.id/">Trunojoyo Madura University</a>
+- I am currently learning the Java programming language
+- Don't hesitate to have a discussion with me, hehe
+- How to contact me : <a href="mailto:sisteminformasi2006@gmail.com">Contact Me</a>
+- Fun fact : A cat lover
 
 ### Tech Stack
 <a href="https://nodejs.org/"><img align="left" alt="Python" title="NodeJS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" /></a>
@@ -28,6 +30,7 @@ A student who is actively learning programming languages and enthusiastic about 
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/muhammad-iqbal-firmansyah-469650257/">LinkedIn</a>
-- <a href="https://instagram.com/iqbalfiirmnsyh_?igshid=MzMyNGUyNmU2YQ==">Instagram</a>
-- <a href="mailto:sisteminformasi2006@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/muhammad-iqbal-firmansyah-469650257/">
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="45px" src="#" />
+  LinkedIn
+</a>
