@@ -4,7 +4,7 @@
   <h3>A student who is actively learning programming languages and enthusiastic about understanding everything! - Right now, I am actively involved as a part of <a href="https://www.instagram.com/wargalabtif_/?hl=id">Wargalab in the Department of Informatics Engineering.</a></h3>
 </div>
 
-<h2 align="center">Github Statistic</h2>
+
 <p align="center">
   <a href="https://github.com/LabQii">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LabQii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
