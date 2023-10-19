@@ -30,7 +30,6 @@ A student who is actively learning programming languages and enthusiastic about 
 </p>
 
 ### Reach me on
-<a href="https://www.linkedin.com/in/muhammad-iqbal-firmansyah-469650257/">
-  <img align="left" alt="LinkedIn" title="LinkedIn" width="45px" src="#" />
-  LinkedIn
-</a>
+- <a href="https://www.linkedin.com/in/muhammad-iqbal-firmansyah-469650257/">LinkedIn</a>
+- <a href="https://instagram.com/iqbalfiirmnsyh_?igshid=MzMyNGUyNmU2YQ==">Instagram</a>
+- <a href="mailto:sisteminformasi2006@gmail.com">Email</a>
