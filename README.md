@@ -39,23 +39,33 @@
   <tbody>
     <tr>
       <td><b>Labqii Tech</b> — Personal Portfolio</td>
-      <td align="center">Personal</td>
+      <td align="center">Web App</td>
       <td align="center"><a href="https://iqbalfir.vercel.app">iqbalfir.vercel.app</a></td>
     </tr>
     <tr>
       <td><b>CNC Journal</b> — Private journaling platform for two</td>
-      <td align="center">Personal</td>
+      <td align="center">Web App</td>
       <td align="center"><a href="https://cnc-journal.vercel.app">cnc-journal.vercel.app</a></td>
     </tr>
     <tr>
       <td><b>Interview & Test AI Platform</b> — Technical assessment system</td>
-      <td align="center">Personal</td>
+      <td align="center">Web App</td>
       <td align="center"><a href="#">coming soon</a></td>
     </tr>
     <tr>
       <td><b>Cleaning4Solo</b> — Cleaning service platform</td>
-      <td align="center">Personal</td>
+      <td align="center">Web App</td>
       <td align="center"><a href="https://cleaning4solo.vercel.app">cleaning4solo.vercel.app</a></td>
+    </tr>
+    <tr>
+      <td><b>TravelIn</b> — Travel app design</td>
+      <td align="center">UI/UX</td>
+      <td align="center"><a href="https://www.figma.com/proto/smgA2PgfAT4OF2e1bHLNrH/TravlIn?page-id=199%3A5477&node-id=199-7928&viewport=908%2C2711%2C0.48&t=do6cVNe2xtnSP6Ja-1&scaling=scale-down&starting-point-node-id=199%3A7370">Figma Prototype</a></td>
+    </tr>
+    <tr>
+      <td><b>Madura Island</b> — Tourism app design</td>
+      <td align="center">UI/UX</td>
+      <td align="center"><a href="https://www.figma.com/proto/mddBYFY2K2IP45Nfr61qYw/MaduraIsland-Project?type=design&node-id=607-968&t=xIuKylbscgMiHWMR-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=607%3A983">Figma Prototype</a></td>
     </tr>
   </tbody>
 </table>
