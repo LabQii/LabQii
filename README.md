@@ -39,22 +39,22 @@
   <tbody>
     <tr>
       <td><b>Labqii Tech</b> — Personal Portfolio</td>
-      <td align="center">Web App</td>
+      <td align="center">Web</td>
       <td align="center"><a href="https://iqbalfir.vercel.app">iqbalfir.vercel.app</a></td>
     </tr>
     <tr>
       <td><b>CNC Journal</b> — Private journaling platform for two</td>
-      <td align="center">Web App</td>
+      <td align="center">Web</td>
       <td align="center"><a href="https://cnc-journal.vercel.app">cnc-journal.vercel.app</a></td>
     </tr>
     <tr>
       <td><b>Interview & Test AI Platform</b> — Technical assessment system</td>
-      <td align="center">Web App</td>
+      <td align="center">Web</td>
       <td align="center"><a href="#">coming soon</a></td>
     </tr>
     <tr>
       <td><b>Cleaning4Solo</b> — Cleaning service platform</td>
-      <td align="center">Web App</td>
+      <td align="center">Web</td>
       <td align="center"><a href="https://cleaning4solo.vercel.app">cleaning4solo.vercel.app</a></td>
     </tr>
     <tr>
