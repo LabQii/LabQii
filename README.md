@@ -28,34 +28,34 @@
 
 ## Projects
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Type</th>
-      <th>Live</th>
+      <th align="left">Project</th>
+      <th align="center">Type</th>
+      <th align="center">Live</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>Labqii Tech</b> — Personal Portfolio</td>
-      <td>Solo</td>
-      <td><a href="https://iqbalfir.vercel.app">iqbalfir.vercel.app</a></td>
+      <td align="center">Personal</td>
+      <td align="center"><a href="https://iqbalfir.vercel.app">iqbalfir.vercel.app</a></td>
     </tr>
     <tr>
       <td><b>CNC Journal</b> — Private journaling platform for two</td>
-      <td>Solo</td>
-      <td><a href="https://cnc-journal.vercel.app">cnc-journal.vercel.app</a></td>
+      <td align="center">Personal</td>
+      <td align="center"><a href="https://cnc-journal.vercel.app">cnc-journal.vercel.app</a></td>
     </tr>
     <tr>
       <td><b>Interview & Test AI Platform</b> — Technical assessment system</td>
-      <td>Solo</td>
-      <td><a href="#">coming soon</a></td>
+      <td align="center">Personal</td>
+      <td align="center"><a href="#">coming soon</a></td>
     </tr>
     <tr>
       <td><b>Cleaning4Solo</b> — Cleaning service platform</td>
-      <td>Solo</td>
-      <td><a href="https://cleaning4solo.vercel.app">cleaning4solo.vercel.app</a></td>
+      <td align="center">Personal</td>
+      <td align="center"><a href="https://cleaning4solo.vercel.app">cleaning4solo.vercel.app</a></td>
     </tr>
   </tbody>
 </table>
