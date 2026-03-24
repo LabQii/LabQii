@@ -50,7 +50,7 @@
     <tr>
       <td><b>Interview & Test AI Platform</b> — Technical assessment system</td>
       <td align="center">Web</td>
-      <td align="center"><a href="#">coming soon</a></td>
+      <td align="center"><a href="https://interview-aii.vercel.app/">interview-aii.vercel.app</a></td>
     </tr>
     <tr>
       <td><b>Cleaning4Solo</b> — Cleaning service platform</td>
