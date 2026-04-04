@@ -43,6 +43,11 @@
       <td align="center"><a href="https://iqbalfir.vercel.app">iqbalfir.vercel.app</a></td>
     </tr>
     <tr>
+      <td><b>Finance Tracker Mobile</b> — Technical assessment system</td>
+      <td align="center">Web</td>
+      <td align="center"><a href="https://script.google.com/macros/s/AKfycbyu70eVqJ0PNy4ofu3sYKfH9Y5cjCJKgpxhvVK0kwJ6hNks8ApJA_AJ2U9uK2ExwrZw/exec">finance-tracker.app.script</a></td>
+    </tr>
+    <tr>
       <td><b>CNC Journal</b> — Private journaling platform for two</td>
       <td align="center">Web</td>
       <td align="center"><a href="https://cnc-journal.vercel.app">cnc-journal.vercel.app</a></td>
