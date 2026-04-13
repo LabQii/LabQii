@@ -43,7 +43,7 @@
       <td align="center"><a href="https://iqbalfir.vercel.app">iqbalfir.vercel.app</a></td>
     </tr>
     <tr>
-      <td><b>On Board</b> — Personal Portfolio</td>
+      <td><b>On Board</b> — Employee</td>
       <td align="center">Web</td>
       <td align="center"><a href="https://onboard-employee.vercel.app/">onboard-employee.vercel.app</a></td>
     </tr>
