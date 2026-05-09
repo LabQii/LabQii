@@ -31,7 +31,6 @@
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Project</th>
       <th align="center">Type</th>
       <th align="center">Live</th>
     </tr>
