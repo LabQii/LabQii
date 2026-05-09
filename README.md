@@ -26,11 +26,10 @@
 
 <div align="center">
 
-## Projects
-
 <table width="100%">
   <thead>
     <tr>
+      <th align="center">Projects</th>
       <th align="center">Type</th>
       <th align="center">Live</th>
     </tr>
