@@ -5,6 +5,14 @@
 <br>
 
 <div align="center">
+  <a href="https://iqbalfir.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-iqbalfir.vercel.app-0F2442?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
 
 <table width="100%">
   <thead>
@@ -57,14 +65,6 @@
     </tr>
   </tbody>
 </table>
-
-<br>
-
-<div align="center">
-  <a href="https://iqbalfir.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-iqbalfir.vercel.app-0F2442?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
 
 <br>
 
